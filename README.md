@@ -12,7 +12,7 @@ State Marriage Rates 1990, 1995, 1999-2016
 
 Source: https://data.world/siyeh/state-marriage-rate 
 
-Format: xlsx
+Format: csv
 
  
 U.S. Religious Census for 1990, 2000 and 2010.
